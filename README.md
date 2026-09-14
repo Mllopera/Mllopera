@@ -2,4 +2,4 @@
 
 **Hola, soy X** 👋  
 Desarrolladora FullStack 🌱  
-📍 España
+📍 España, sevilla 2
