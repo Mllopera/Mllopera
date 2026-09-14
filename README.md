@@ -1,7 +1,17 @@
-# Hola You!
+# Hi, You!
 
-**Hola, soy X** 👋  
-Desarrolladora FullStack 🌱  
-📍 España, sevilla 2
+**Data Analist**
 
-Creador de 2 webs molonas
+Programmer
+Java
+Python
+HTML
+
+Desarrolladora FullStack 🌱
+
+3D modeling
+printer expert, bambufan
+
+📍 España, Seville
+
+
